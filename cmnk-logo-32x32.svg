@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="32" height="32"
+     viewBox="0 0 32 32">
+  <!-- Tło (białe, żeby ikonka dobrze wyglądała na ciemnym tle) -->
+  <rect x="0" y="0" width="32" height="32" fill="#ffffff"/>
+
+  <!-- Avatar 1:1 w środku, skalowany do 32×32 -->
+  <image href=https://github.com/MariuszB88/CMNK/blob/main/ChatGPT%20Image%201%20d%C3%A9c.%202025%2C%2016_03_52.png
+         x="0" y="0"
+         width="32" height="32"
+         preserveAspectRatio="xMidYMid slice" />
+</svg>
